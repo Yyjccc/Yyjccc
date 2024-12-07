@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+<p align="center">
 ![Yyjccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyjccc)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yyjccc&layout=compact&theme=tokyonight)
 
-
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
